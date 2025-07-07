@@ -9,7 +9,7 @@
 ### Team Members
 | Name | Title | Socials |
 |------|-------|---------|
-| Gökdeniz Gündüz | Scrum Master | [LinkedIn/GitHub] |
+| Gökdeniz Gündüz | Scrum Master | [LinkedIn](www.linkedin.com/in/gokdeniz-gunduz) / [GitHub](https://github.com/GokdenizGunduz)
 | Mert Cihan Bayır | Product Owner | [LinkedIn](https://www.linkedin.com/in/mertcihanbayır/) / [GitHub](https://github.com/MertCihan74) |
 | Sefa Nur Yiğit | Developer | [LinkedIn/GitHub] |
 | Sümeyye Açıkgöz | Developer | [LinkedIn/GitHub] |
